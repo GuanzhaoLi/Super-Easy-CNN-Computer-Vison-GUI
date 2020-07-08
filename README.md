@@ -12,7 +12,7 @@ License: MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/
 
 More specific reference could be found in reference.txt
 
-======================================================================================================
+==================================================================================================
 
 Introduction
 
