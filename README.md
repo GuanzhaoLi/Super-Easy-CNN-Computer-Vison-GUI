@@ -10,6 +10,8 @@ Files used for making dataset https://github.com/ManivannanMurugavel/Yolo-Annota
 Copyright: Manivannan Murugavel
 License: MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/issues/10)
 
+More specific reference could be found in reference.txt
+
 
 Introduction
 
