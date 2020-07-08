@@ -3,11 +3,11 @@ More manual of how to use this tool will be added in the future. But first I wil
 Acknowledgements:
 
 Files used for detection based on keras yolo v3 https://github.com/qqwweee/keras-yolo3
-Copyright: qqwweee
+Copyright: @qqwweee
 License: MIT
 
 Files used for making dataset https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
-Copyright: Manivannan Murugavel
+Copyright: @ManivannanMurugavel
 License: MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/issues/10)
 
 More specific reference could be found in reference.txt
