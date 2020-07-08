@@ -1,0 +1,8 @@
+./Images/catdog/dog-2.jpg  64,44,87,170,0
+./Images/catdog/dog-3.jpg  83,71,223,157,0
+./Images/catdog/dog-1.jpg  89,64,144,229,0
+./Images/catdog/cat-3.jpg  170,247,258,277,0
+./Images/catdog/cat-2.jpg  186,184,242,271,0
+./Images/catdog/cat-1.jpg  160,197,243,243,0
+./Images/catdog/cat-5.jpg  86,72,113,81,0
+./Images/catdog/cat-4.jpg  122,75,331,215,0

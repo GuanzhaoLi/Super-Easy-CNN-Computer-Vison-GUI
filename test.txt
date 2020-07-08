@@ -1,0 +1,1 @@
+./Labels/cardog/dog-2.txt 70 41 161 183./Labels/cardog/dog-3.txt 50 40 450 325
