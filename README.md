@@ -12,7 +12,8 @@ License: MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/
 
 More specific reference could be found in reference.txt
 
-====================================================================================================================================================================
+==================================================================================================================================================
+
 Introduction
 
 This program use a graphical interface for users who don't have experience with tensorflow or python to have a glimpse of the ML world and do some basic customized neural network training.
