@@ -8,7 +8,7 @@ License: MIT
 
 Files used for making dataset https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
 Copyright: Manivannan Murugavel
-License: I guess MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/issues/10)
+License: MIT? (https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-/issues/10)
 
 
 Introduction
