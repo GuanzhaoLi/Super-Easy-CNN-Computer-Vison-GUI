@@ -1,6 +1,7 @@
 More manual of how to use this tool will be added in the future. But first I will credit all the source code I used in this project below:
 
 Acknowledgements:
+
 Files used for detection based on keras yolo v3 https://github.com/qqwweee/keras-yolo3
 Copyright: qqwweee
 License: MIT
